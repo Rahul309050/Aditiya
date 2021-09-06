@@ -18,7 +18,7 @@ function setup() {
   // noStroke();
   // text('train', 100, 200);
 
-  var points = font.textToPoints('ADITYA', 100, 200, 192, {
+  var points = font.textToPoints('Sonam ', 100, 200, 192, {
     sampleFactor: 0.13
   });
 
